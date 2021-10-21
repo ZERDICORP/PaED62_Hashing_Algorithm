@@ -1,1 +1,6 @@
-*.java, *.js, *.pl, *.py, *.cs, *.cpp linguist-detectable=false
+*.java linguist-detectable=false
+*.js linguist-detectable=false
+*.pl linguist-detectable=false
+*.py linguist-detectable=false
+*.cs linguist-detectable=false
+*.cpp linguist-detectable=false
