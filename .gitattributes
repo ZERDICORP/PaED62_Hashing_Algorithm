@@ -1,1 +1,1 @@
-*.java *.js *.pl *.py *.cs *.cpp linguist-detectable=false
+*.java, *.js, *.pl, *.py, *.cs, *.cpp linguist-detectable=false
