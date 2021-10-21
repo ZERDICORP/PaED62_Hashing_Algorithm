@@ -8,4 +8,4 @@ This algorithm uses a simple formula:
 
 In this repository you can find examples of this algorithm in 6 different languages.
 
-P.S. also, you can try it online: [PaED62_online](188.187.188.37:82)
+P.S. also, you can try it online: [PaED62_online](http://188.187.188.37:82)
